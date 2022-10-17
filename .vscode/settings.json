@@ -1,0 +1,4 @@
+{
+    "typescript.preferences.quoteStyle": "single",
+    "angular.enable-strict-mode-prompt": false
+}

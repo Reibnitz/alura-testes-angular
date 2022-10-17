@@ -1,0 +1,4 @@
+Para relatório de testes, adicionar a seguinte linha em package.json -> scripts
+"test-coverage": "ng test --watch=false --sourceMap=true --codeCoverage=true --browsers ChromeHeadless"
+
+Vai gerar relatório na pasta coverage. Abrir o HTML para verificar.
